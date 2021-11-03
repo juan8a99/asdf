@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0'>
+    <channel>
+	  <title>DofusFantasy - GAME</title>
+	  <copyright>DofusFantsy 2012</copyright>
+	  <lastBuildDate>Sun, 04 Mar 2012 17:29:42 +0200</lastBuildDate>
+	  <item>
+		<guid>1</guid>
+		<title>No te quedes sin actualizarte, entra al Xat DofusFantasy</title>
+		<link>http://dofusfantasi.ro/index.php?page=chat</link>
+		<icon>News_Dedicaces</icon>
+		<pubDate>Sun, 02 Mar 2012 17:29:42 +0200</pubDate>
+	  </item>
+	  <item>
+		<guid>2</guid>
+		<title>NUESTRA WEB</title>
+		<link>http://dofusfantasy.ro</link>
+		<icon>News_Dedicaces</icon>
+		<pubDate>Sun, 02 Mar 2012 17:29:42 +0200</pubDate>
+	  </item>
+ <item>
+		<guid>3</guid>
+		<title>NUESTRS CLIPS DofusFantasy [OBLIGATORIO]</title>
+		<link>https://rapidshare.com/#!download|656p6|2370522573|ClipsDofuEstefi.rar|99341|R~87A3D6BE484A0B8DD4D73D9174F4CA2E|0|0</link>
+		<icon>News_Dedicaces</icon>
+		<pubDate>Sun, 04 Mar 2012 17:29:42 +0200</pubDate>
+	  </item>
+    </channel>
+</rss>

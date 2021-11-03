@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+		<rss version='2.0'>
+		<channel>
+		<title>News dofus - game</title>
+		<copyright>Copyright 2009 Ankama-Games.com</copyright>
+		<lastBuildDate>Fri, 27 Aug 2010 17:29:42 +0200</lastBuildDate>
+		<item>
+  <guid>7471</guid> 
+  <title>Adopta una mascotas con bonus especiales en Frigost</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7471-adopta-una-mascotas-bonus-especiales-frigost.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Fri, 27 Aug 2010 17:29:42 +0200</pubDate>
+</item>
+<item>
+  <guid>7466</guid> 
+  <title>Resultados del Fanartminator: �Impresionante!</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7466-resultados-fanartminator-impresionante.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Fri, 27 Aug 2010 15:29:54 +0200</pubDate>
+</item>
+<item>
+  <guid>7463</guid> 
+  <title>Gultarminator: Cuartos de final</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7463-gultarminator-cuartos-final.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Fri, 27 Aug 2010 11:42:14 +0200</pubDate>
+</item>
+<item>
+  <guid>7454</guid> 
+  <title>Gultarminator: 8vos de final</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7454-gultarminator-8vos-final.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Thu, 26 Aug 2010 18:06:13 +0200</pubDate>
+</item>
+<item>
+  <guid>7446</guid> 
+  <title>16vos de Final: �Buhorado arrasa!</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7446-16vos-final-buhorado-arrasa.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Wed, 25 Aug 2010 16:26:31 +0200</pubDate>
+</item>
+<item>
+  <guid>7433</guid> 
+  <title>Prueba comunitaria 4: �A quemar abr�knidos!</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7433-prueba-comunitaria-4-quemar-abraknidos.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Tue, 24 Aug 2010 14:48:34 +0200</pubDate>
+</item>
+<item>
+  <guid>7428</guid> 
+  <title>Nueva mazmorra en la Feria del Trool</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7428-nueva-mazmorra-feria-trool.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Tue, 24 Aug 2010 16:27:53 +0200</pubDate>
+</item>
+<item>
+  <guid>7425</guid> 
+  <title>�Ya llegaron las nuevas mascotas de abono!</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7425-ya-llegaron-nuevas-mascotas-abono.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Tue, 24 Aug 2010 11:59:27 +0200</pubDate>
+</item>
+<item>
+  <guid>7419</guid> 
+  <title>��Regalos de abono en DOFUS 1!! (Eratz)</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7419-regalos-abono-dofus-1-eratz.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Mon, 23 Aug 2010 17:12:13 +0200</pubDate>
+</item>
+<item>
+  <guid>7415</guid> 
+  <title>Gultarminator: 32avos de final</title> 
+  <link>http://www.dofus.com/es/mmorpg/news/7415-gultarminator-32avos-final.html?utm_source%3Drss%26utm_medium%3Dflux-client%26utm_campaign%3Dnews-dofus</link>
+  <icon>News_News</icon>
+  <pubDate>Mon, 23 Aug 2010 16:58:15 +0200</pubDate>
+</item>
+
+		</channel>
+		</rss>
